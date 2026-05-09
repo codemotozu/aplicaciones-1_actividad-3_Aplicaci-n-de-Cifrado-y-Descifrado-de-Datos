@@ -118,7 +118,7 @@ La aplicación cuenta con **tres ventanas**:
 
 ---
 
-## 👤 Autor
+## 👤 Autora
 
 **Carolina Rodríguez Chacón**  
 Maestría en Inteligencia Artificial  
