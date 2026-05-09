@@ -84,7 +84,7 @@ python main.py
 La aplicación cuenta con **tres ventanas**:
 
 ### Ventana principal
-- Muestra la información del autor.
+- Muestra la información de la autora.
 - Contiene dos botones: **Ir a Cifrado** e **Ir a Descifrado**.
 
 ### Ventana de cifrado
