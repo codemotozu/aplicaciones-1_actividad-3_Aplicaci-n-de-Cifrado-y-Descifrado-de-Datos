@@ -66,8 +66,8 @@ python -m tkinter
 
 **1. Clonar el repositorio:**
 ```bash
-git clone https://github.com/[tu-usuario]/[nombre-del-repo].git
-cd [nombre-del-repo]
+git clone https://github.com/codemotozu/aplicaciones-1_actividad-3_Aplicaci-n-de-Cifrado-y-Descifrado-de-Datos.git
+cd aplicaciones-1_actividad-3_Aplicaci-n-de-Cifrado-y-Descifrado-de-Datos
 ```
 
 **2. Ejecutar la aplicación:**
@@ -120,7 +120,7 @@ La aplicación cuenta con **tres ventanas**:
 
 ## 👤 Autor
 
-**[Tu nombre completo]**  
+**Carolina Rodríguez Chacón**  
 Maestría en Inteligencia Artificial  
 Universidad de La Salle – Bogotá, Colombia  
 Mayo 2026
